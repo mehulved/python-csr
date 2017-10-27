@@ -1,0 +1,9 @@
+---
+  host1:
+    hostname: 'rightleads.dev'
+    sans:
+      - 'my.rightleads.dev'
+  host2:
+    hostname: 'voicereach365.dev'
+    sans:
+      - '*.voicereach365.dev'
